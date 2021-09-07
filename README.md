@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![github-stats](https://github-readme-stats.vercel.app/api?username=sato9818&count_private=true&theme=react&show_icons=true)
-![github-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sato9818&theme=react&hide=c%23,ShaderLab,GLSL,Mask)
+![github-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sato9818&theme=react&exclude_repo=HelloSmarteyeglass,VRSample,racing,VRracing2)
